@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Kamalesh
 
 ##
-I build fun apps as a hobby.
+Building crazy apps as a hobby.
 
 ##
 <h3>Languages and Tools:</h3>
