@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Kamalesh
 
 ##
-Building crazy apps for fun :)
+Building crazy apps🤯 for fun :)
 
 ##
 <h3>Languages and Tools:</h3>
