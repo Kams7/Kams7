@@ -15,6 +15,7 @@ Building crazy apps 🤯 for fun :)
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="40px" height="40px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="40px" height="40px"></a>
+<a href="https://git-scm.com/" target="_blank" title ="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /</a>
 
 <!--
 **Kams7/Kams7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
