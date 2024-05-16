@@ -4,6 +4,10 @@
 Building crazy apps 🤯 for fun :)
 
 ##
+See my Inventory Page to see some of the cool projects I have made <br/>
+(kams7.gihub.io)
+
+##
 <h3>Languages and Tools:</h3>
 
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"></a>
