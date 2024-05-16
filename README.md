@@ -5,7 +5,7 @@ Building crazy apps 🤯 for fun :)
 
 ##
 See my Inventory Page to see some of the cool projects I have made <br/>
-(kams7.gihub.io)
+[kams7.gihub.io](https://kams7.github.io/)
 
 ##
 <h3>Languages and Tools:</h3>
