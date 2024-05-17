@@ -1,16 +1,29 @@
 ### Hi there 👋 , I'm Kamalesh
 
 ##
-Building crazy apps 🤯 for fun :)
+Building 🤯 crazy apps for fun :)
 
-##
+<br>
+
 Check out my Inventory Page to try out the cool apps I have made <br/>
 [kams7.gihub.io](https://kams7.github.io/)
 
-##
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kamaleshm" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+</p>
+
+<br>
+
 <h3>Languages and Tools:</h3>
 
+<a href="https://spring.io/" target="_blank" title ="springboot"> <img src="https://static.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" alt="springboot" width="40" height="40" /> </a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="40px" height="40px"></a>
