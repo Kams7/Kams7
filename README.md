@@ -2,8 +2,7 @@
 
 ##
  - 🤯 Building crazy apps for fun :)
- - 📦 Check out my Inventory Page to try out the cool apps I have made <br/>
-[kams7.gihub.io](https://kams7.github.io/)
+ - 📦 Check out my [Inventory Page](https://kams7.github.io/) to try out the cool apps I have made
 
 <br>
 
