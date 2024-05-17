@@ -39,6 +39,7 @@ Check out my Inventory Page to try out the cool apps I have made <br/>
 
 <br>
 
+<!--
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Kams7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -51,7 +52,6 @@ Check out my Inventory Page to try out the cool apps I have made <br/>
     alt="adam-pw" /></p>
 
 <br>
-<!--
 **Kams7/Kams7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
