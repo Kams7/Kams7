@@ -1,11 +1,8 @@
 ### Hi there 👋 , I'm Kamalesh
 
 ##
-Building 🤯 crazy apps for fun :)
-
-<br>
-
-Check out my Inventory Page to try out the cool apps I have made <br/>
+ - 🤯 Building crazy apps for fun :)
+ - 📦 Check out my Inventory Page to try out the cool apps I have made <br/>
 [kams7.gihub.io](https://kams7.github.io/)
 
 <br>
