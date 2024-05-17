@@ -38,6 +38,19 @@ Check out my Inventory Page to try out the cool apps I have made <br/>
 </p>
 
 <br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kams7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Kams7" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kams7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
 <!--
 **Kams7/Kams7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
