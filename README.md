@@ -18,7 +18,7 @@
 
 <br>
 
-<h3>Skills</h3>
+<h3>Skills:</h3>
 <p>God told me to code in JS and Java 🥵. So, I use React and Spring Boot 🛐</p>
 
 #### Programming Languages
