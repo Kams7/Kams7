@@ -19,13 +19,13 @@
 <br>
 
 <h3>Skills</h3>
-<p>God told me to code in JS and Java. So, I use React and Spring Boot 🛐🥵</p>
+<p>God told me to code in JS and Java 🛐. So, I use React and Spring Boot🥵</p>
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,java)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,js)
 
 #### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=react,next,html,css,tailwind,spring,django)
+![Frameworks](https://skillicons.dev/icons?i=spring,django,react,next,html,css,tailwind)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,figma,git,docker)
