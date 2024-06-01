@@ -18,8 +18,19 @@
 
 <br>
 
-<h3>Languages and Tools:</h3>
+<h3>Skills</h3>
+<p>God told me to code in JS and Java. So, I use React and Spring Boot 🛐🥵</p>
 
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,java)
+
+#### Frameworks
+![Frameworks](https://skillicons.dev/icons?i=react,next,html,css,tailwind,spring,django)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,figma,git,docker)
+
+<!--
 <p align="left"> 
 <a href="https://spring.io/" target="_blank" title ="springboot"> <img src="https://static.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" alt="springboot" width="40" height="40" /> </a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
@@ -38,7 +49,6 @@
 
 <br>
 
-<!--
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Kams7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
