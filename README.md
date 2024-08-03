@@ -22,13 +22,13 @@
 <p>God told me to code in JS and Java 🥵. So, I use React and Spring Boot 🛐</p>
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,js)
+![Languages](https://skillicons.dev/icons?i=java,js,c,cpp,python)
 
 #### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=spring,django,react,next,html,css,tailwind)
+![Frameworks](https://skillicons.dev/icons?i=spring,react,django,next,flutter,html,css,tailwind)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,figma,git,docker)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,redis,figma,git,kubernetes,docker,aws)
 
 <!--
 <p align="left"> 
