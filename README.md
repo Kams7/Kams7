@@ -28,7 +28,7 @@
 ![Frameworks](https://skillicons.dev/icons?i=spring,react,django,next,html,css,tailwind)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,elasticsearch,kibana,cassandra,redis,kafka,figma,git,kubernetes,docker,aws,linux)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,elasticsearch,cassandra,redis,kafka,figma,git,kubernetes,docker,aws,linux)
 
 <!--
 <p align="left"> 
